@@ -26,7 +26,7 @@ header {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  margin-block: 32px;
+  margin-block: 48px 32px;
 }
 
 .sandwich {
